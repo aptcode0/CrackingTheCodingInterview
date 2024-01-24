@@ -1,2 +1,2 @@
 # CrackingTheCodingInterview
-Solutions of all questions in cracking the coding interview book
+Solutions to all questions in cracking the coding interview book
